@@ -144,7 +144,7 @@ p {
 /* SHOWCASE STYLING */
 
 #showcase {
-    background: url('/Images/showcase.jpg') no-repeat center center/cover;
+    background: url('../Images/showcase.jpg') no-repeat center center/cover;
     height: 600px;
 }
 
@@ -173,7 +173,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url('/Images/photo-1.jpg') no-repeat;
+    background: url('../Images/photo-1.jpg') no-repeat;
     min-height: 100%;
 }
 
@@ -227,7 +227,7 @@ p {
 /* TESTIMONIALS STYLING -> ABOUT PAGE */
 #testimonials {
     height: 100%;
-    background: url('/Images/test-bg.jpg') no-repeat center center/cover;
+    background: url('../Images/test-bg.jpg') no-repeat center center/cover;
     padding-top: 100px;
 }
 
